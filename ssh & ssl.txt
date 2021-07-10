@@ -1,0 +1,3 @@
+	SSH & SSL
+
+The key difference between SSH vs SSL is that SSH is used for creating a secure tunnel to another computer from which you can issue commands, transfer data, etc. On the other end, SSL is used for securely transferring data between two parties – it does not let you issue commands as you can with SSH

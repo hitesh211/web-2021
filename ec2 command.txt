@@ -1,0 +1,13 @@
+1. ec2-user
+2. sudo su
+3. yum update -y
+4. yum install httpd -y
+5. pwd 
+6. cd /var/www/html/
+7. ls
+8. vi index.html
+9. copy the code left cursor
+10. ~ + ;
+11. :wq
+12. service httpd restart
+13. service httpd restart

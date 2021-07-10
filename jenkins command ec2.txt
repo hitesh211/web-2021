@@ -1,0 +1,8 @@
+
+Command run jenkins on ec2 server 
+
+systemctl start jenkins
+ systemctl enable jenkins
+
+To see the password of the jenkins command
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
